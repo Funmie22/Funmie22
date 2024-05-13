@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello there, nice to meet you 😃
 
-Nice to meet you 😃
-Linkedin Badge Twitter Badge
+ [![Linkedin Badge](https://img.shields.io/badge/-Funmi%20Dahunsi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Funmi-Dahunsi)](https://www.linkedin.com/in/Funmi-Dahunsi) 
+ [![Twitter Badge](https://img.shields.io/badge/-@ODahunsiR9364-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/DahunsiR9364)](https://twitter.com/)
+ 
+I am a Software Engineer who is passionate about learning new skillsets, I am currently learning frontend development at [Valdymas-intelligence](https://valdymasintelligence.org/)
 
-I am a Software Engineer who is passionate about learning new skillsets, I am currently learning frontend development at Valdymas-intelligence
+*Here's a quick summary about me*:
 
-Here's a quick summary about me:
+- 😊 Pronouns: She/her
+- 💡 Fun fact: I'm currently studying at Valdymas_Intelligence [School of Software Engineering](https://valdymasintelligence.org/) Class of 2024.
+- 🌱 I’m currently learning JavaScript, Reactjs, and Angular js.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
+- 📫 You can contact me by emailing funmi425@gmail.com.) Class of 2022.
 
-😊 Pronouns: She/her
-💡 Fun fact: I'm currently studying at Valdymas_Intelligence School of Software Engineering Class of 2024.
-🌱 I’m currently learning JavaScript, Reactjs, and Angular js.
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
-📫 You can contact me by emailing funmi425@gmail.com.) Class of 2022.
--->
