@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Funmie22/Funmie22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you 😃
+Linkedin Badge Twitter Badge
 
-Here are some ideas to get you started:
+I am a Software Engineer who is passionate about learning new skillsets, I am currently learning frontend development at Valdymas-intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here's a quick summary about me:
+
+😊 Pronouns: She/her
+💡 Fun fact: I'm currently studying at Valdymas_Intelligence School of Software Engineering Class of 2024.
+🌱 I’m currently learning JavaScript, Reactjs, and Angular js.
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
+📫 You can contact me by emailing funmi425@gmail.com.) Class of 2022.
 -->
