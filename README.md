@@ -3,14 +3,14 @@
  [![Linkedin Badge](https://img.shields.io/badge/-Funmi%20Dahunsi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Funmi-Dahunsi)](https://www.linkedin.com/in/Funmi-Dahunsi) 
  [![Twitter Badge](https://img.shields.io/badge/-@ODahunsiR9364-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/DahunsiR9364)](https://twitter.com/)
  
-I am a Software Engineer who is passionate about learning new skillsets, I am currently learning frontend development at [Valdymas-intelligence](https://valdymasintelligence.org/)
+About Me
+👩‍💻 Pronouns: She/Her
+🌟 Fun Fact: I’m a Software Engineer who thrives on learning new technologies and solving real-world challenges.
+💻 Background: As a frontend developer transitioning from Web2 to Web3, I bring hands-on experience as a Frontend Instructor.
+📚 Learning Focus: Currently deepening my expertise in Solidity to develop blockchain-based applications.
+🤝 Seeking Opportunities: Eager to contribute to open-source projects and secure a stable frontend position.
+💼 Career Interests: Software Engineer, Blockchain Developer
+📫 Contact Me: Feel free to reach out via email at funmi425@gmail.com
 
-*Here's a quick summary about me*:
 
-- 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at Valdymas_Intelligence [School of Software Engineering](https://valdymasintelligence.org/) Class of 2024.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Angular js.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing funmi425@gmail.com.) Class of 2022.
 
