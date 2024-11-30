@@ -4,7 +4,7 @@
  [![Twitter Badge](https://img.shields.io/badge/-@ODahunsiR9364-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/DahunsiR9364)](https://twitter.com/)
  
 About Me
-👩‍💻 Pronouns: She/Her
+👩‍💻 Pronouns: She/Her<br>
 🌟 Fun Fact: I’m a Software Engineer who thrives on learning new technologies and solving real-world challenges.
 💻 Background: As a frontend developer transitioning from Web2 to Web3, I bring hands-on experience as a Frontend Instructor.
 📚 Learning Focus: Currently deepening my expertise in Solidity to develop blockchain-based applications.
